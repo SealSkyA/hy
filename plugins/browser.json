@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "top.aiguoya"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "top.aiguoya"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "top.aiguoya"
+        }
+    }
+}
